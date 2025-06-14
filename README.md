@@ -24,7 +24,8 @@
     <main>
         <h3>About This Playlist</h3>
         <p>This is a collection of my favourite songs.</p>
-        
+        <ul>
+            <li></li><a href="index.html">Home</a></li>
     </main>
     <footer>
         <p>&copy; 2025 My Playlist</p>
