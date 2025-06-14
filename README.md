@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     Dear Ng Sir,
-    <br>This is a special playlist for you. In this playlist, there's a collection of my favourite songs and songs that made me think of you. Hope you would like it! Thank you for your accompaniment in this few years, the best and goodbye!
+    <br>This is a special playlist for you. In this playlist, there's a collection of my favourite songs and songs that made me think of you. Hope you would like it! Thank you for your accompaniment in these few years, all the best and goodbye!
     <br>Best Wishes,
     <br>Fok Man Ying Vitinie
     <link rel="stylesheet" href="styles.css">
@@ -24,6 +24,7 @@
     <main>
         <h3>About This Playlist</h3>
         <p>This is a collection of my favourite songs.</p>
+        
     </main>
     <footer>
         <p>&copy; 2025 My Playlist</p>
