@@ -18,13 +18,13 @@
         <br>祝(你)
         <br>在亂流下平安</p>
 <footer>
-    <p>Best wishes, 
+    <p>With love, 
         <br>Fok Man Ying Vitinie</p>
 </footer>
 <div></div>
     <h1>Vitinie's Playlist</h1>
     <p>Dear Ng Sir,
-    <br>The following is a special playlist for you. In this playlist, you'll find a collection of my favourite songs and those that remind me of you. Hope you would like it! Thank you for your accompaniment over the past few years. All the best and goodbye!
+    <br>The following is a special playlist for you. In this playlist, you'll find a collection of my favourite songs and those that remind me of you. Hope you would like it! Thank you for your accompaniment over the past few years.
     <br>Best Wishes,
     <br>Fok Man Ying Vitinie</p>
     <main>
@@ -50,6 +50,7 @@
             <li><a href="https://youtu.be/v6ltnNnUfXE?si=KUfwHW9z6l2gnIMG" target="_blank">無窮 - per se</li>
             <li><a href="https://youtu.be/_5Bbfkl4fwE?si=6OBA07AUfJfEY_R-" target="_blank">所有遺失的東西 - per se & vincy</li>
             <li><a href="https://youtu.be/lrPTYvYsqFQ?si=9ez257LsGGMSN7z8" target="_blank">How to be alive - per se</li>
+            </ul>
       </main>
       <main>
         <h2>雜</h2>
@@ -71,6 +72,7 @@
             <li><a href="https://youtu.be/FTdqtKAqlRI?si=tna4k6St_L_0hcaD" target="_blank">the beast - per se</li>
             <li><a href="https://youtu.be/2VPvbxMdAHQ?si=QssbFn08Fk7hAM6Z" target="_blank">the ENDchild - per se</li>
             <!-- Add more songs as needed -->
+                </ul>
       </main>
       <main>
         <h2>致</h2>
@@ -122,6 +124,7 @@
               <li><a href="https://youtu.be/Kaj1I0F0HnU?si=lyTQdWo7TKLA9aWX" target="_blank">I’m Still Here - Kate Winton</li>
               <li><a href="https://youtu.be/C117NWgCJ88?si=3GhZcapAqntc9BDd" target="_blank">一路逆風 - 鄧紫棋</li>
               <!-- Add more songs as needed -->
+                  </ul>
         </main>
         <main>
         <h2>大家</h2>
@@ -151,6 +154,7 @@
             <li><a href="https://youtu.be/06DLtL10XdA?si=QAMRzhVZ0QpPiWM8" target="_blank">聖馬力諾之心 - Dear Jane</li>
             <li><a href="https://youtu.be/hQ-CEKgD8Gs?si=0t69kHuS-jixBdUa" target="_blank">多謝你自己 - Dear Jane</li>
             <!-- Add more songs as needed -->
+                </ul>
         </main>
         <main>
         <h2>希望</h2>
