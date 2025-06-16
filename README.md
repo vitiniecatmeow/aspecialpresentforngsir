@@ -23,7 +23,10 @@
 </footer>
 <div></div>
     <h1>Vitinie's Playlist</h1>
-    <p></p>
+    <p>Dear Ng Sir,
+    <br>The following is a special playlist for you. In this playlist, you'll find a collection of my favourite songs and those that remind me of you. Hope you would like it! Thank you for your accompaniment over the past few years. All the best and goodbye!
+    <br>Best Wishes,
+    <br>Fok Man Ying Vitinie</p>
     <main>
         <h2>我</h2>
         <body>一啲我聽完好有共鳴嘅歌</body>
