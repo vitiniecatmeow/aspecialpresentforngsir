@@ -72,54 +72,54 @@
         <h2>致</h2>
         <body>一啲送比你嘅歌</body>
         <ul id="song-list">
-            <li><a href="youtube" target="_blank">天空塌下前 - per se</li>
-            <li><a href="youtube" target="_blank">波斯雅 - per se</li>
-            <li><a href="youtube" target="_blank">任我行 - 陳奕迅</li>
+            <li><a href="https://youtu.be/YJId-hlKy-g?si=7Cb095YxPFYZVnCQ" target="_blank">天空塌下前 - per se</li>
+            <li><a href="https://youtu.be/PW7Y7VYul3g?si=xrpYmdq0lRZbWVNJ" target="_blank">波斯雅 - per se</li>
+            <li><a href="https://youtu.be/oYw4uH80gcw?si=36ZAyCa7Mx4-iyry" target="_blank">任我行 - 陳奕迅</li>
             <!-- Add more songs as needed -->
           <main>
             <h3>再見</h3>
             <body>thank you and goodbye!</body>
             <ul id="song-list">
-                <li><a href="youtube" target="_blank">瑪麗晚安了 - 林家謙 & Yoga Lin</li>
-                <li><a href="youtube" target="_blank">我想和你好好的 - 陳蕾</li>
-                <li><a href="youtube" target="_blank">記得 - 林家謙</li>
-                <li><a href="youtube" target="_blank">某種老朋友 - 林家謙</li>
-                <li><a href="youtube" target="_blank">變一個發明了Encore - 林家謙</li>
-                <li><a href="youtube" target="_blank">All We Have Is Now - 林家謙 & 方皓玟</li>
-                <li><a href="youtube" target="_blank">只記住你 - 鄧小巧</li>
-                <li><a href="youtube" target="_blank">free fallin’ - 林家謙</li>
-                <li><a href="youtube" target="_blank">勿念 - yoyo sham</li>
-                <li><a href="youtube" target="_blank">在生 - per se</li>                
-                <li><a href="youtube" target="_blank">閃念 - per se</li>
-                <li><a href="youtube" target="_blank">I was yesterday - per se</li>
-                <li><a href="youtube" target="_blank">記憶之流 - per se</li>
-                <li><a href="youtube" target="_blank">不日之約 - per se</li>
-                <li><a href="youtube" target="_blank">see you tomorrow - per se</li>                
-                <li><a href="youtube" target="_blank">我們的故事未完...待續 - per se</li>
-                <li><a href="youtube" target="_blank">The Envelope - per se</li>
-                <li><a href="youtube" target="_blank">make this moment last - San Holo</li>
-                <li><a href="youtube" target="_blank">將快樂這刻蔓延(snap it) - Jamie Cheung</li>
+                <li><a href="https://youtu.be/xoyxVMt_sYE?si=hllRmN-V_WMjRUIH" target="_blank">瑪麗晚安了 - 林家謙 & Yoga Lin</li>
+                <li><a href="https://youtu.be/fZSgY842Uq0?si=8b1jMPSga7UP0Fyy" target="_blank">我想和你好好的 - 陳蕾</li>
+                <li><a href="https://youtu.be/JZYNGEudQx0?si=OEppZA2-kDa8LidI" target="_blank">記得 - 林家謙</li>
+                <li><a href="https://youtu.be/bvhbM0JGsx4?si=ecQZMkYdPic9Y1ja" target="_blank">某種老朋友 - 林家謙</li>
+                <li><a href="https://youtu.be/KpZL59NqkcY?si=hRJTaoACT8ylTGpx" target="_blank">邊一個發明了Encore - 林家謙</li>
+                <li><a href="https://youtu.be/8Vo0Ccn99ms?si=p5vn_rUyNsLGRRPu" target="_blank">All We Have Is Now - 方皓玟</li>
+                <li><a href="https://youtu.be/UWo3D-O28lE?si=t8MXOSkBlhv2sWhJ" target="_blank">只記住你 - 鄧小巧</li>
+                <li><a href="https://youtu.be/C2XAyqQeEQE?si=YIeZQoloGs9xACC8" target="_blank">free fallin’ - 林家謙</li>
+                <li><a href="https://youtu.be/sMjkxVOm5vw?si=rzmJiYW6KMg7avIf" target="_blank">勿念 - yoyo sham</li>
+                <li><a href="https://youtu.be/x4Yb33Z_E1Y?si=HY_TtaNKZF1Jagij" target="_blank">在生 - per se</li>                
+                <li><a href="https://youtu.be/7c65bLMVg-Y?si=Xlhw04_HovHRwzQp" target="_blank">閃念 - per se</li>
+                <li><a href="https://youtu.be/4s_VrTkM09w?si=GDrxI3ctZbLvOtHI" target="_blank">I was yesterday - per se</li>
+                <li><a href="https://youtu.be/wkLFffbRngw?si=o8ZlZKJagkT9WIgQ" target="_blank">記憶之流 - per se</li>
+                <li><a href="https://youtu.be/7DwMVe166lw?si=ugugXqY3fuVE7NXu" target="_blank">不日之約 - per se</li>
+                <li><a href="https://youtu.be/1TG7-UTMX08?si=uiGaH9yXlbivRID8" target="_blank">see you tomorrow - per se</li>                
+                <li><a href="https://youtu.be/UaMqVH3cNhY?si=wUoi1atAz7-yGxW0" target="_blank">我們的故事未完...待續 - per se</li>
+                <li><a href="https://youtu.be/RvDeoMDrnvU?si=Dj5HC0f3A-JT9FGL" target="_blank">The Envelope - per se</li>
+                <li><a href="https://youtu.be/eI19mF6L2so?si=5kjd30nC33HGlp8Q" target="_blank">make this moment last - San Holo</li>
+                <li><a href="https://youtu.be/qX9DScDsHIo?si=LuLc1lJFdoPuYFkp" target="_blank">將快樂這刻蔓延(snap it) - Jamie Cheung</li>
                 <!-- Add more songs as needed -->
           </main>
           <main>
           <h3>得到</h3>
           <body>一啲我係同你嘅consultation sessions得到嘅insight或者value</body>
           <ul id="song-list">
-              <li><a href="youtube" target="_blank">有你聽我的故事 - 林家謙</li>
-              <li><a href="youtube" target="_blank">The End of Night - 鄧紫棋</li>
-              <li><a href="youtube" target="_blank">念 - 陳蕾</li>
-              <li><a href="youtube" target="_blank">求救的勇氣 - 陳蕾</li>
-              <li><a href="youtube" target="_blank">救命歌 - 鄭欣宜</li>              
-              <li><a href="youtube" target="_blank">世界對我們 - 林家謙</li>
-              <li><a href="youtube" target="_blank">不藥而癒 - 鄧小巧</li>
-              <li><a href="youtube" target="_blank">剎那的烏托邦 - yoyo sham</li>
-              <li><a href="youtube" target="_blank">通心術 - per se</li>
-              <li><a href="youtube" target="_blank">慶祝無意義 - per se</li>              
-              <li><a href="youtube" target="_blank">杜松樹之鳥 - per se</li>
-              <li><a href="youtube" target="_blank">在你失去色彩之前請多多指教 - per se</li>
-              <li><a href="youtube" target="_blank">因愛而來 - Dear Jane</li>
-              <li><a href="youtube" target="_blank">I’m Still Here - Kate Winton</li>
-              <li><a href="youtube" target="_blank">Against the Wind - 鄧紫棋</li>
+              <li><a href="https://youtu.be/mw8bM7IPJto?si=9tnBqWiY-kokSudo" target="_blank">有你聽我的故事 - 林家謙</li>
+              <li><a href="https://youtu.be/3OSGYTj08rU?si=ewCuJ1ovezZdif1P" target="_blank">夜的盡頭 - 鄧紫棋</li>
+              <li><a href="https://youtu.be/heEjOa_-lw0?si=nhEGrItAN5E3odEQ" target="_blank">念 - 陳蕾</li>
+              <li><a href="https://www.youtube.com/watch?v=fFWntYVQ_gg" target="_blank">求救的勇氣 - 陳蕾</li>
+              <li><a href="https://youtu.be/MnDVOP3_IA4?si=L82XsWc7HgBJDLFg" target="_blank">救命歌 - 鄭欣宜</li>              
+              <li><a href="https://youtu.be/JmoUGB5Xwik?si=C14806UJmvqeRzUU" target="_blank">世界對我們 - Robynn & Kendy</li>
+              <li><a href="https://youtu.be/59WkWTJflbU?si=Vqq-funpXfeV_gjE" target="_blank">不藥而癒 - 鄧小巧</li>
+              <li><a href="https://youtu.be/Fa0QL00-dso?si=aBeIJttSb2Z9TDaS" target="_blank">剎那的烏托邦 - yoyo sham</li>
+              <li><a href="https://youtu.be/AsmxdD7DNKU?si=z5kT2wkAqyUw9-Ab" target="_blank">通心術 - per se</li>
+              <li><a href="https://youtu.be/T-GMC5Hg2mQ?si=rKv8CwF5bAAy0QIR" target="_blank">慶祝無意義 - per se</li>              
+              <li><a href="https://youtu.be/ElIB1dzAdaY?si=UsHEikiLhFi1L3tI" target="_blank">杜松樹之鳥 - per se</li>
+              <li><a href="https://youtu.be/33CZ_fwUnFk?si=Cu0sdufjJI7O5nCc" target="_blank">在你失去色彩之前請多多指教 - per se</li>
+              <li><a href="https://youtu.be/QeITxfn-wHI?si=cjB_w9pmBGtoD97b" target="_blank">因愛而來 - Dear Jane</li>
+              <li><a href="https://youtu.be/Kaj1I0F0HnU?si=lyTQdWo7TKLA9aWX" target="_blank">I’m Still Here - Kate Winton</li>
+              <li><a href="https://youtu.be/C117NWgCJ88?si=3GhZcapAqntc9BDd" target="_blank">一路逆風 - 鄧紫棋</li>
               <!-- Add more songs as needed -->
           </main>
         </main>
