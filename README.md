@@ -153,8 +153,8 @@
             <li><a href="https://youtu.be/vCzogbzbO88?si=vX5VRh7bMBr2irIW" target="_blank">Branches - per se</li>
             <li><a href="https://youtu.be/06DLtL10XdA?si=QAMRzhVZ0QpPiWM8" target="_blank">聖馬力諾之心 - Dear Jane</li>
             <li><a href="https://youtu.be/hQ-CEKgD8Gs?si=0t69kHuS-jixBdUa" target="_blank">多謝你自己 - Dear Jane</li>
+</ul>
             <!-- Add more songs as needed -->
-                </ul>
         </main>
         <main>
         <h2>希望</h2>
@@ -172,7 +172,7 @@
             <li><a href="https://youtu.be/EnguPjSw1Eo?si=_tcXzBsUt4REXQaw" target="_blank">天光前 - 黃妍</li>
             <!-- Add more songs as needed -->
         </main>
-        </ul>
+</ul>
         <p>Feel free to listen and enjoy!</p>
     </main>
     <footer>
