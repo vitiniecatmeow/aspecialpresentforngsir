@@ -51,21 +51,21 @@
         <h2>雜</h2>
         <body>一啲我鍾意但唔知點categorize嘅歌</body>
         <ul id="song-list">
-            <li><a href="youtube link" target="_blank">Children Song - 周國賢</li>
-            <li><a href="youtube link" target="_blank">怪我只敢做個好人 - 林家謙</li>
-            <li><a href="youtube link" target="_blank">無答案 - 林家謙</li>
-            <li><a href="youtube link" target="_blank">萬一你是個好人 - 林家謙</li>
-            <li><a href="youtube link" target="_blank">(沒名字的)懸崖花 - 林家謙 & 林欣彤</li>
-            <li><a href="youtube link" target="_blank">心頭大石 - 林家謙</li>
-            <li><a href="youtube link" target="_blank">神愛世人 - 鄧小巧</li>
-            <li><a href="youtube link" target="_blank">夜闌人靜 - moon tang</li>
-            <li><a href="youtube link" target="_blank">逝去如水 - per se</li>
-            <li><a href="youtube link" target="_blank">純孩兒 - per se</li>
-            <li><a href="youtube link" target="_blank">無門 - per se</li>
-            <li><a href="youtube link" target="_blank">親愛的幽靈 - per se</li>
-            <li><a href="youtube link" target="_blank">Child of Snow - per se</li>
-            <li><a href="youtube link" target="_blank">the beast - per se</li>
-            <li><a href="youtube link" target="_blank">the ENDchild - per se</li>
+            <li><a href="https://youtu.be/Lsvry_XKJRE?si=bf5oETjJ6w0pm51F" target="_blank">Children Song - 周國賢</li>
+            <li><a href="https://youtu.be/uDsV6TW903U?si=FaDI2iP07yVvcSa8" target="_blank">怪我只敢做個好人 - 林家謙</li>
+            <li><a href="https://youtu.be/4VO_ZJ3H8E8?si=KCSvp5I7dEOpKSKQ" target="_blank">無答案 - 林家謙</li>
+            <li><a href="https://youtu.be/3BgQTkguk0w?si=JrJUh9VoioXR5Hug" target="_blank">萬一你是個好人 - 林家謙</li>
+            <li><a href="https://youtu.be/72Ha7Wk6t0g?si=vm6uptafJTDZim7v" target="_blank">懸崖花 - 林欣彤</li>
+            <li><a href="https://youtu.be/8IYbahgvgQI?si=UAC8EoXS5BfdNsEA" target="_blank">心頭大石 - 鄭融</li>
+            <li><a href="https://youtu.be/QIWasCe4IU8?si=clMpC3I3xrpgIq_m" target="_blank">神愛世人 - 鄧小巧</li>
+            <li><a href="https://youtu.be/v3rDVWZd72c?si=Oik4kfNVIle4zW6L" target="_blank">夜闌人靜 - moon tang</li>
+            <li><a href="https://youtu.be/eznbpqAlRy8?si=sg4p_TAbl_TjnOfK" target="_blank">逝去如水 - per se</li>
+            <li><a href="https://youtu.be/8KrGB8lNyGc?si=oUbD_Ojzakzp2-hB" target="_blank">純孩兒 - per se</li>
+            <li><a href="https://youtu.be/wJKHQU2GuwY?si=JxhWJJjUSaIePVNI" target="_blank">無門 - per se</li>
+            <li><a href="https://youtu.be/gmeEHskNilg?si=Z8sJWeD3lGv4N5gi" target="_blank">親愛的幽靈 - per se</li>
+            <li><a href="https://youtu.be/drf4eImkNS8?si=fFim01rlZoBPyFV1" target="_blank">Child of Snow - per se</li>
+            <li><a href="https://youtu.be/FTdqtKAqlRI?si=tna4k6St_L_0hcaD" target="_blank">the beast - per se</li>
+            <li><a href="https://youtu.be/2VPvbxMdAHQ?si=QssbFn08Fk7hAM6Z" target="_blank">the ENDchild - per se</li>
             <!-- Add more songs as needed -->
       </main>
       <main>
