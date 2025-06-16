@@ -21,12 +21,8 @@
             </ul>
         </nav>
     </header>
-    <main>
-        <h3>About This Playlist</h3>
-        <p>This is a collection of my favourite songs.</p>
-    </main>
     <footer>
-        <p>&copy; 2025 My Playlist</p>
+        <p>&copy; Vitinie's Playlist</p>
     </footer>
 </body>
 </html>
