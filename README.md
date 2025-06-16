@@ -7,11 +7,10 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Vitinie's Playlist</h1>
+        <h1>「因吾，曾被聽見」| "Because You Listened"</h1>
     </header>
     </head>
 <body>
-    <h3>「因吾，曾被聽見」| "Because You Listened"</h3>
     <p>致我生命中的救贖 — 吳sir,</p>
     <p>由於我自己就唔係啲好artistic嘅人，所以整唔到啲咩紀念品(?)或者(叫做)禮物(?)比你啦哈哈, that's why我打算送首playlist比你，裏面係一啲我鍾意或者每次聽到都會令我唸起你嘅歌，我得閒亦都會update下，而你得閒或者感覺想聽個陣都可以聽下（๑⃙⃘ˊ꒳​ˋ๑⃙⃘）
         <br>我幫個playlist改左個名叫「因吾，曾被聽見」 "Because You Listened", 意味住自己對你嘅感激，感恩你嚟四年以嚟嘅聆聽，讓我可以一步一步變得更好，當中用左「吾」字，嚟個字同你嘅姓氏同音，而係文言文當中亦都係「我」嘅意思，代表住我地嘅嚟段therapeutic relationship, 雖然今日嚟到尾聲，但嚟個世界的確永遠都唔會有人陪住自己，身邊嘅人總有一日會離開，但願我地彼此都會記得個啲係診症室裏面嘅美好時光、我地嘅笑聲、眼淚... 雖然離別係痛苦的，但我相信我地有緣一定會再見的，多謝你，我親愛嘅精神科護士，願你一直安好！all the best and goodbye
@@ -24,7 +23,7 @@
 <div></div>
     <h1>Vitinie's Playlist</h1>
     <p>Dear Ng Sir,
-    <br>The following is a special playlist for you. In this playlist, you'll find a collection of my favourite songs and those that remind me of you. Hope you would like it! Thank you for your accompaniment over the past few years.
+    <br>I have created a special playlist just for you. This collection includes some of my favorite songs, as well as those that remind me of our time together. I hope you enjoy it! Thank you for your support and companionship over the past few years.
     <br>Best Wishes,
     <br>Fok Man Ying Vitinie</p>
     <main>
