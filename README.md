@@ -23,7 +23,7 @@
 <div></div>
     <h1>Vitinie's Playlist</h1>
     <p>Dear Ng Sir,
-    <br>I have created a special playlist just for you. This collection includes some of my favorite songs, as well as those that remind me of our time together. I hope you enjoy it! Thank you for your support and companionship over the past few years.
+    <br>I have created a special playlist just for you. This collection includes some of my favourite songs, as well as those that remind me of our time together. I hope you enjoy it! Thank you for your support and companionship over the past few years.
     <br>Best Wishes,
     <br>Fok Man Ying Vitinie</p>
     <main>
@@ -50,8 +50,8 @@
             <li><a href="https://youtu.be/_5Bbfkl4fwE?si=6OBA07AUfJfEY_R-" target="_blank">所有遺失的東西 - per se & vincy</li>
             <li><a href="https://youtu.be/lrPTYvYsqFQ?si=9ez257LsGGMSN7z8" target="_blank">How to be alive - per se</li>
             </ul>
-    </main>
                 <div></div>
+    </main>
     <main>
         <h2>雜</h2>
         <body>一啲我鍾意但唔知點categorize嘅歌</body>
